@@ -11,6 +11,6 @@ $(document).ready(() => {
 
         paragraphs.toggle(SPEED);
         // paragraphs.toggle(`slow`);
-        //paragraphs.toggle(`fast`);
+        // paragraphs.toggle(`fast`);
     });
 });
